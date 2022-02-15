@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PT. Comodo Coin Decentralized**
 
-- 🌱 I’m currently learning **ReactJS, Solidity, Moralis**
+- 🌱 I’m currently learning **Solidity*
 
 - 👨‍💻 All of my projects are available at [https://ilhambar.bar/](https://ilhambar.bar/)
 
