@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgen0x&label=Profile%20views&color=0e75b6&style=flat" alt="pgen0x" /> </p>
 
-- 🔭 I’m currently working on [https://snapinnovations.com/](SNAP Innovations Pte Ltd)
+- 🔭 I’m currently working on [SNAP Innovations Pte Ltd](https://snapinnovations.com/)
 
 - 🌱 I’m currently learning **Solidity*
 
