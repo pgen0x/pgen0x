@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity*
 
-- 👨‍💻 All of my projects are available at [https://amnst.xyz/](https://amnst.xyz/)
+- 👨‍💻 All of my projects are available at [https://amnst.my.id/](https://amnst.xyz/)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
