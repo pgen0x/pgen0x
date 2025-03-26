@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ilham Nst<br>Experienced Full-Stack Developer with 7+ years of expertise in building web and blockchain applications.<br>Skilled in PHP, HTML, CSS, JavaScript, MySQL, PostgreSQL, cloud-based databases, and frameworks<br>like React.js, Next.js, Laravel, Bootstrap, and TailwindCSS. Proficient in Node.js and Bun for server-side<br>development, with hands-on experience in blockchain technologies such as DApps, DeFi, Web3.js, smart<br>contracts, and NFTs. As a Lead Developer, I’ve led teams, mentored developers, and designed system<br>architectures to deliver scalable, user-centric solutions. Strong in testing, observability, and innovation,<br>with a proven ability to drive project success through collaboration and technical excellence.<br><br>🌱 I’m currently learning golang and AI development<br>
+<br>Hi 👋, I'm Ilham Nst<br>Experienced Full-Stack Developer with 7+ years of expertise in building web and blockchain applications.<br>Skilled in PHP, HTML, CSS, JavaScript, MySQL, PostgreSQL, cloud-based databases, and frameworks<br>like React.js, Next.js, Laravel, Bootstrap, and TailwindCSS. Proficient in Node.js and Bun for server-side<br>development, with hands-on experience in blockchain technologies such as DApps, DeFi, Web3.js, smart<br>contracts, and NFTs. As a Lead Developer, I’ve led teams, mentored developers, and designed system<br>architectures to deliver scalable, user-centric solutions. Strong in testing, observability, and innovation,<br>with a proven ability to drive project success through collaboration and technical excellence.<br><br>🌱 I’m currently learning golang and AI development<br>
 
 
 ## 🌐 Socials:
@@ -11,12 +11,4 @@ Hi 👋, I'm Ilham Nst<br>Experienced Full-Stack Developer with 7+ years of expe
 ![](https://nirzak-streak-stats.vercel.app/?user=pgen0x&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pgen0x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pgen0x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=pgen0x&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
